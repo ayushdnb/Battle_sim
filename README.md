@@ -228,6 +228,8 @@ This project is built with the hope that by creating a sufficiently complex and 
 🤝 Contributing
 Contributions are welcome. Please open an issue to discuss your ideas or submit a pull request.
 
+To start: python -m codex_bellum.main
+
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
